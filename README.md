@@ -1,3 +1,3 @@
 # demo
 this is my first Git Repository
-Author Yogesh.
+Author Yogesh Dhruw .
